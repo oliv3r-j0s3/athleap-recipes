@@ -1,0 +1,1 @@
+export { AthleapRecipes } from './src/AthleapRecipes.js';
